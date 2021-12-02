@@ -1,0 +1,22 @@
+#sort{
+    display: none;
+}
+body{
+    background-image: url("123.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px;
+}
+#submit{
+    background-color:rgb(240, 121, 145) ;
+    border-radius: 30px;
+    border-style: ridge;
+}
+#sorted_names{
+    width: 50%;
+    background-color:indianred;
+    border: 2px solid cyan;
+}
+#name_students{
+    width:50% ;
+    background-color: goldenrod;
+}
